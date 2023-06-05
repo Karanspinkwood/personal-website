@@ -1,0 +1,41 @@
+body {
+    text-align: left;
+    background-color: #000;
+
+}
+
+p {
+    color: blue;
+    font-style: italic;
+    font-family: Arial;
+    font-weight: bold;
+    border-style: solid;
+    background-color: lightgrey;
+}
+  
+.about-me {
+    color: lightgreen;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: italic;
+    border-style: dashed;
+    background-color: darkgrey;
+}
+  
+.cover-pic {
+    width: 100%;
+}
+  
+#profile-photo img {
+    border-radius: 50%;
+    border: 2px solid white;
+    width: 100%;
+    max-width: 500px;
+    min-width: 100px;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 55%;
+    left: 2%;
+}
+  
